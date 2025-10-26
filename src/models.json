@@ -1,0 +1,24 @@
+{
+  "models": [
+    {
+      "name": "bolo_cenoura",
+      "file": "bolo_cenoura.glb",
+      "path": "/bolo_cenoura.glb"
+    },
+    {
+      "name": "bomba",
+      "file": "bomba.glb",
+      "path": "/bomba.glb"
+    },
+    {
+      "name": "prato_cuscuz",
+      "file": "prato_cuscuz.glb",
+      "path": "/prato_cuscuz.glb"
+    },
+    {
+      "name": "torta_doce",
+      "file": "torta_doce.glb",
+      "path": "/torta_doce.glb"
+    }
+  ]
+}
