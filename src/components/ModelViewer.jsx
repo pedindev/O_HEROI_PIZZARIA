@@ -51,6 +51,7 @@ function ModelViewer({ selectedModel, compact = false }) {
           <ambientLight intensity={0.5} />
           <directionalLight position={[10, 10, 5]} intensity={1} />
           <pointLight position={[-10, -10, -5]} intensity={0.5} />
+          <DynamicModel modelPath="/super_burguer.glb" visible={selectedModel === '/super_burguer.glb'} />
           <DynamicModel modelPath="/bolo_cenoura.glb" visible={selectedModel === '/bolo_cenoura.glb'} />
           <DynamicModel modelPath="/bomba.glb" visible={selectedModel === '/bomba.glb'} />
           <DynamicModel modelPath="/prato_cuscuz.glb" visible={selectedModel === '/prato_cuscuz.glb'} />

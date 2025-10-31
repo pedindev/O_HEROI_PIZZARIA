@@ -27,14 +27,14 @@ function App() {
   // Dados dos produtos com informações completas
   const products = [
     {
-      id: 'bolo_cenoura',
-      name: 'bolo_cenoura',
-      nameDisplay: 'Bolo de Cenoura',
-      image: '/bolo_cenoura.glb',
+      id: 'Super_Burguer',
+      name: 'Super_Burguer',
+      nameDisplay: 'Super Burguer',
+      image: '/super_burguer.glb',
       imageUrl: 'https://via.placeholder.com/300x300/FF6B6B/FFFFFF?text=Bolo+de+Cenoura',
       category: 'doces',
-      price: 10.00,
-      description: 'Um delicioso bolo de cenoura com uma rica cobertura de chocolate.',
+      price: 19.00,
+      description: 'Pão brioche, blend bovino , tomate, alface, queijo, molho especial',
       ingredients: 'Farinha de trigo, açúcar, ovos, cenoura, chocolate'
     },
     {
