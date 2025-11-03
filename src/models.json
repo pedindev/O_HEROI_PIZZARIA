@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "name": "Super_Burguer",
+      "file": "super_burguer.glb",
+      "path": "/super_burguer.glb",
+      "displayName": "Super Burguer"
+    },
+    {
+      "name": "Quarteto_Fantastico",
+      "file": "quarteto_fantastico.glb",
+      "path": "/quarteto_fantastico.glb",
+      "displayName": "Quarteto Fantástico"
+    }
+  ]
+}
