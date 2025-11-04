@@ -76,7 +76,7 @@
 .rating-form-header h2 {
   font-size: 24px;
   font-weight: bold;
-  color: #333;
+  color: #2E7D32;
   margin: 0;
 }
 
@@ -113,11 +113,11 @@
 .form-group input[type="text"]:focus,
 .form-group textarea:focus {
   outline: none;
-  border-color: #ff4444;
+  border-color: #2E7D32;
 }
 
 .form-group input.error {
-  border-color: #ff4444;
+  border-color: #2E7D32;
 }
 
 .form-group textarea {
@@ -149,7 +149,7 @@
 
 .error-message {
   display: block;
-  color: #ff4444;
+  color: #2E7D32;
   font-size: 14px;
   margin-top: 4px;
 }
@@ -182,14 +182,14 @@
 }
 
 .submit-btn {
-  background: #ff4444;
+  background: #2E7D32;
   color: white;
 }
 
 .submit-btn:hover {
-  background: #ff3333;
+  background: #1B5E20;
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(255, 68, 68, 0.4);
+  box-shadow: 0 4px 12px rgba(46, 125, 50, 0.4);
 }
 
 .submit-btn:active {

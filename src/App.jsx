@@ -69,7 +69,7 @@ function App() {
       imageUrl: '/super_burguer.png',
       category: 'hamburgueres',
       price: 19.00,
-      description: 'Pão brioche, blend bovino, tomate, alface, queijo, molho especial',
+      description: 'É a engenharia do sabor com pão brioche, blend nobre e molho secreto. A essência do que um hambúrguer deve ser.',
       ingredients: 'Pão brioche, blend bovino, tomate, alface, queijo, molho especial'
     },
     {
@@ -80,8 +80,8 @@ function App() {
       imageUrl: '/quarteto_fantastico.png',
       category: 'hamburgueres',
       price: 25.00,
-      description: 'O combo épico com 4 deliciosos sabores em um só hambúrguer.',
-      ingredients: 'Pão, carne, queijo, bacon, cebola, molhos especiais'
+      description: 'O combo épico com quatro deliciosos sabores em um só hambúrguer.',
+      ingredients: 'Pão, carne, queijo, bacon, cebola caramelisada  , molhos especiais'
     }
   ];
 

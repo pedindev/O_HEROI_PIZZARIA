@@ -79,7 +79,7 @@
 .ratings-modal-header h2 {
   font-size: 24px;
   font-weight: bold;
-  color: #333;
+  color: #2E7D32;
   margin: 0;
 }
 
@@ -121,7 +121,7 @@
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background: #ff4444;
+  background: #2E7D32;
   color: white;
   display: flex;
   align-items: center;
@@ -192,7 +192,7 @@
   position: absolute;
   bottom: 20px;
   right: 20px;
-  background: #ff4444;
+  background: #2E7D32;
   color: white;
   border: none;
   border-radius: 50px;
@@ -203,15 +203,15 @@
   cursor: pointer;
   font-size: 16px;
   font-weight: 600;
-  box-shadow: 0 4px 12px rgba(255, 68, 68, 0.4);
+  box-shadow: 0 4px 12px rgba(46, 125, 50, 0.4);
   transition: all 0.3s ease;
   z-index: 10;
 }
 
 .add-rating-btn:hover {
-  background: #ff3333;
+  background: #1B5E20;
   transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(255, 68, 68, 0.5);
+  box-shadow: 0 6px 16px rgba(46, 125, 50, 0.5);
 }
 
 .add-rating-btn:active {
