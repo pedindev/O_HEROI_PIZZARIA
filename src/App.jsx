@@ -82,6 +82,28 @@ function App() {
       price: 25.00,
       description: 'O combo épico com quatro deliciosos sabores em um só hambúrguer.',
       ingredients: 'Pão, carne, queijo, bacon, cebola caramelisada  , molhos especiais'
+    },
+    {
+      id: 'Duplo_Cheddar_Bacon',
+      name: 'Duplo_Cheddar_Bacon',
+      nameDisplay: 'Duplo Cheddar Bacon',
+      image: '/Duplo_Cheddar_Bacon.glb',
+      imageUrl: '/Duplo_Cheddar_Bacon.png',
+      category: 'hamburgueres',
+      price: 22.00,
+      description: 'O sabor intenso do cheddar duplo combinado com bacon crocante. Uma explosão de sabores em cada mordida.',
+      ingredients: 'Pão brioche, dois hambúrgueres, cheddar duplo, bacon crocante, cebola, molho especial'
+    },
+    {
+      id: 'X_Frango',
+      name: 'X_Frango',
+      nameDisplay: 'X Frango',
+      image: '/X_Frango.glb',
+      imageUrl: '/X_Frango.png',
+      category: 'hamburgueres',
+      price: 18.00,
+      description: 'Frango grelhado suculento com ingredientes frescos. A opção perfeita para quem busca sabor e qualidade.',
+      ingredients: 'Pão brioche, frango grelhado, queijo, alface, tomate, maionese especial'
     }
   ];
 

@@ -11,6 +11,18 @@
       "file": "quarteto_fantastico.glb",
       "path": "/quarteto_fantastico.glb",
       "displayName": "Quarteto Fantástico"
+    },
+    {
+      "name": "Duplo_Cheddar_Bacon",
+      "file": "Duplo_Cheddar_Bacon.glb",
+      "path": "/Duplo_Cheddar_Bacon.glb",
+      "displayName": "Duplo Cheddar Bacon"
+    },
+    {
+      "name": "X_Frango",
+      "file": "X_Frango.glb",
+      "path": "/X_Frango.glb",
+      "displayName": "X Frango"
     }
   ]
 }
