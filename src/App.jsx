@@ -104,6 +104,28 @@ function App() {
       price: 18.00,
       description: 'Frango grelhado suculento com ingredientes frescos. A opção perfeita para quem busca sabor e qualidade.',
       ingredients: 'Pão brioche, frango grelhado, queijo, alface, tomate, maionese especial'
+    },
+    {
+      id: 'X_Bacon',
+      name: 'X_Bacon',
+      nameDisplay: 'X Bacon',
+      image: '/X_Bacon.glb',
+      imageUrl: '/X_Bacon.png',
+      category: 'hamburgueres',
+      price: 20.00,
+      description: 'O clássico hambúrguer com bacon crocante e queijo derretido. Sabor tradicional que nunca sai de moda.',
+      ingredients: 'Pão brioche, hambúrguer bovino, queijo, bacon crocante, alface, tomate, maionese'
+    },
+    {
+      id: 'X_Calabresa',
+      name: 'X_Calabresa',
+      nameDisplay: 'X Calabresa',
+      image: '/X_Calabresa.glb',
+      imageUrl: '/X_Clalabresa.png',
+      category: 'hamburgueres',
+      price: 19.00,
+      description: 'Hambúrguer com calabresa fatiada, queijo e molho especial. Um sabor picante e irresistível.',
+      ingredients: 'Pão brioche, hambúrguer bovino, calabresa fatiada, queijo, cebola, molho especial'
     }
   ];
 

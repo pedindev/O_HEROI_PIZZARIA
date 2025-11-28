@@ -19,7 +19,7 @@ function ModelSelector({ selectedModel, onModelSelect }) {
               </svg>
             </div>
             <div className="model-info">
-              <h4>{model.name.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}</h4>
+              <h4>{model.displayName || model.name.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}</h4>
               <p>{model.file}</p>
             </div>
             {selectedModel === model.name && (

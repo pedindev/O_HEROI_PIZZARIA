@@ -23,6 +23,18 @@
       "file": "X_Frango.glb",
       "path": "/X_Frango.glb",
       "displayName": "X Frango"
+    },
+    {
+      "name": "X_Bacon",
+      "file": "X_Bacon.glb",
+      "path": "/X_Bacon.glb",
+      "displayName": "X Bacon"
+    },
+    {
+      "name": "X_Calabresa",
+      "file": "X_Calabresa.glb",
+      "path": "/X_Calabresa.glb",
+      "displayName": "X Calabresa"
     }
   ]
 }

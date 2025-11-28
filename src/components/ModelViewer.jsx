@@ -63,6 +63,8 @@ function ModelViewer({ selectedModel, compact = false }) {
           <DynamicModel modelPath="/quarteto_fantastico.glb" visible={selectedModel === '/quarteto_fantastico.glb'} />
           <DynamicModel modelPath="/Duplo_Cheddar_Bacon.glb" visible={selectedModel === '/Duplo_Cheddar_Bacon.glb'} />
           <DynamicModel modelPath="/X_Frango.glb" visible={selectedModel === '/X_Frango.glb'} />
+          <DynamicModel modelPath="/X_Bacon.glb" visible={selectedModel === '/X_Bacon.glb'} />
+          <DynamicModel modelPath="/X_Calabresa.glb" visible={selectedModel === '/X_Calabresa.glb'} />
           <PersistedControls saved={saved} />
         </Suspense>
       </Canvas>
